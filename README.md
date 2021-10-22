@@ -1,6 +1,6 @@
 # Arduino Uno Development Board based on LGT8Fx8P & ATMEGAx8PB
 
-⭐ 基于 LGT8Fx8P 与 ATMEGAx8PB 系列单片机的 8051 Uno 开发板 ⭐
+⭐ 基于 LGT8Fx8P 与 ATMEGAx8PB 系列单片机的 Arduino Uno 开发板 ⭐
 
 🔗 [GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/Arduino-Uno-Development-Board-based-on-LGT8Fx8P-and-ATMEGAx8PB) | 🔗 [OSHWHub](https://oshwhub.com/yanranxiaoxi/Arduino-Uno-Development-Board-based-on-LGT8Fx8P-and-ATMEGAx8PB)
 
@@ -8,7 +8,7 @@
 
 ## 🤔 这是什么
 
-这是一个基于 LGT8Fx8P 与 ATMEGAx8PB 系列单片机的 8051 Uno 开发板 ，使用 [立创 EDA](https://lceda.cn/) 进行开发。
+这是一个基于 LGT8Fx8P 与 ATMEGAx8PB 系列单片机的 Arduino Uno 开发板 ，使用 [立创 EDA](https://lceda.cn/) 进行开发。
 
 建议使用 LGT8F328P 国产 AVR 单片机，该单片机拥有改善的性能，高达 32MHz 的时钟速度，是传统 Arduino Uno 的两倍。关于该单片机使用 Arduino IDE 进行开发的方式，请参阅 [久治明千树汐/LGT8Fx](https://gitlab.soraharu.com/XiaoXi/LGT8Fx) 项目。
 
