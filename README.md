@@ -14,6 +14,16 @@
 
 你可以使用本项目的 [焊接助手](https://htmlpreview.soraharu.com/?https://gitlab.soraharu.com/XiaoXi/Arduino-Uno-Development-Board-based-on-LGT8Fx8P-and-ATMEGAx8PB/-/raw/master/InteractiveHtmlBom/index.html) 有效地提升手工焊接效率，本助手通过 [InteractiveHtmlBom](https://gitlab.soraharu.com/XiaoXi/InteractiveHtmlBom) 自动生成。
 
+## 配置 Arduino IDE
+
+以下配置方式以 LGT8F328P 为例：
+
+1. 参阅 [久治明千树汐/LGT8Fx](https://gitlab.soraharu.com/XiaoXi/LGT8Fx/-/blob/master/README.md#%EF%B8%8F-%E5%AE%89%E8%A3%85) 项目配置并安装开发板资源包
+2. 选中 `工具 -> 开发板 -> Logic Green Arduino AVR Compatible Boards (LGT8Fx Boards) -> LGT8F328`
+3. 选中 `工具 -> Variant -> 328P-LQFP32 (e.g. MiniEVB nano-style and WAVGAT)`
+
+如若发现有部分延时或与速度有关的功能工作不正常，可能是因为 LGT8F328P 芯片改善了部分逻辑所占用的时钟周期并提升了一倍的时钟速度，可以尝试选中 `工具 -> Clock -> 32 MHz` 以对齐原版 Arduino Uno 的时钟速度。
+
 ## 🛠️ 生产电路板
 
 本项目的 Gerber 文件可以从 [Releases](https://gitlab.soraharu.com/XiaoXi/Arduino-Uno-Development-Board-based-on-LGT8Fx8P-and-ATMEGAx8PB/-/releases) 页面获取，并允许在开源许可范围内的商业目的使用。
