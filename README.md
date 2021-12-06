@@ -19,10 +19,10 @@
 以下配置方式以 LGT8F328P 为例：
 
 1. 参阅 [久治明千树汐/LGT8Fx](https://gitlab.soraharu.com/XiaoXi/LGT8Fx/-/blob/master/README.md#%EF%B8%8F-%E5%AE%89%E8%A3%85) 项目配置并安装开发板资源包
-2. 选中 `工具 -> 开发板 -> Logic Green Arduino AVR Compatible Boards (LGT8Fx Boards) -> LGT8F328`
-3. 选中 `工具 -> Variant -> 328P-LQFP32 (e.g. MiniEVB nano-style and WAVGAT)`
+2. 选中 `工具` -> `开发板` -> `Logic Green Arduino AVR Compatible Boards (LGT8Fx Boards)` -> `LGT8F328`
+3. 选中 `工具` -> `Variant` -> `328P-LQFP32 (e.g. MiniEVB nano-style and WAVGAT)`
 
-如若发现有部分延时或与速度有关的功能工作不正常，可能是因为 LGT8F328P 芯片改善了部分逻辑所占用的时钟周期并提升了一倍的时钟速度，可以尝试选中 `工具 -> Clock -> 32 MHz` 以对齐原版 Arduino Uno 的时钟速度。
+如若发现有部分延时或与速度有关的功能工作不正常，可能是因为 LGT8F328P 芯片改善了部分逻辑所占用的时钟周期并提升了一倍的时钟速度，可以尝试选中 `工具` -> `Clock` -> `16 MHz` 以对齐原版 Arduino Uno 的时钟速度。
 
 ## 🛠️ 生产电路板
 
@@ -36,7 +36,7 @@
 
 1. 克隆本项目 [源代码](https://gitlab.soraharu.com/XiaoXi/Arduino-Uno-Development-Board-based-on-LGT8Fx8P-and-ATMEGAx8PB/-/archive/master/Arduino-Uno-Development-Board-based-on-LGT8Fx8P-and-ATMEGAx8PB-master.zip) 到本地
 2. 在立创 EDA 标准版编辑器中选择 `文件` -> `打开` -> `立创EDA...`
-3. 选择本项目源代码中的 `/EasyEDA/1-*.json` 文件并分别导入
+3. 选择本项目源代码中的 `/EasyEDA/*.json` 文件并分别导入
 
 ## 🔤 字体
 
