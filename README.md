@@ -10,7 +10,9 @@
 
 这是一个基于 LGT8Fx8P 与 ATMEGAx8PB 系列单片机的 Arduino Uno 开发板 ，使用 [立创 EDA](https://lceda.cn/) 进行开发。
 
-建议使用 LGT8F328P 国产 AVR 单片机，该单片机拥有改善的性能，高达 32MHz 的时钟速度，是传统 Arduino Uno 的两倍。关于该单片机使用 Arduino IDE 进行开发的方式，请参阅 [久治明千树汐/LGT8Fx](https://gitlab.soraharu.com/XiaoXi/LGT8Fx) 项目。
+建议使用 LGT8F328P 国产 AVR 单片机，该单片机拥有改善的性能，高达 32MHz 的时钟速度，是传统 Arduino Uno 的两倍。
+
+本 PCB 设计已通过完整功能性测试，且已添加 [嘉立创](https://www.jlc.com/) SMT 定位孔，可直接进行 SMT 贴片生产。但请注意，本设计完整开源并遵循 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/) 开源协议，开源作者不对作品的安全性、完整性作任何承诺，且不对因此产生的任何损失承担后果。
 
 你可以使用本项目的 [焊接助手](https://htmlpreview.soraharu.com/?https://gitlab.soraharu.com/XiaoXi/Arduino-Uno-Development-Board-based-on-LGT8Fx8P-and-ATMEGAx8PB/-/raw/master/InteractiveHtmlBom/index.html) 有效地提升手工焊接效率，本助手通过 [InteractiveHtmlBom](https://gitlab.soraharu.com/XiaoXi/InteractiveHtmlBom) 自动生成。
 
@@ -18,7 +20,7 @@
 
 以下配置方式以 LGT8F328P 为例：
 
-1. 参阅 [久治明千树汐/LGT8Fx](https://gitlab.soraharu.com/XiaoXi/LGT8Fx/-/blob/master/README.md#%EF%B8%8F-%E5%AE%89%E8%A3%85) 项目配置并安装开发板资源包
+1. 参阅 [久治明千树汐/LGT8Fx](https://gitlab.soraharu.com/XiaoXi/LGT8Fx) 项目配置并安装开发板资源包
 2. 选中 `工具` -> `开发板` -> `Logic Green Arduino AVR Compatible Boards (LGT8Fx Boards)` -> `LGT8F328`
 3. 选中 `工具` -> `Variant` -> `328P-LQFP32 (e.g. MiniEVB nano-style and WAVGAT)`
 
