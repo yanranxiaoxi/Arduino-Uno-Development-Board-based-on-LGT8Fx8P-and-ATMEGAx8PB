@@ -48,15 +48,16 @@
 
 本项目 MCU 为 LQFP-32 封装，以下所有支持 MCU 均需选用其 LQFP-32 封装版本。
 
-| Model       | Test   | Remark    |
-| ----------- | ------ | --------- |
-| LGT8F88P    |        |           |
-| LGT8F168P   |        |           |
-| LGT8F328P   | Tested | Recommend |
-| ATMEGA48PB  |        |           |
-| ATMEGA88PB  |        |           |
-| ATMEGA168PB |        |           |
-| ATMEGA328PB |        | Recommend |
+| Model          | Test                                              | Remark    |
+| -------------- | ------------------------------------------------- | --------- |
+| LGT8F88P       |                                                   |           |
+| LGT8F168P      |                                                   |           |
+| LGT8F328P      | Tested                                            | Recommend |
+| ATMEGA48PB     |                                                   |           |
+| ATMEGA88PB     |                                                   |           |
+| ATMEGA168PB    |                                                   |           |
+| ATMEGA328PB    |                                                   | Recommend |
+| ATMEGA328PU-TH | Tested by [@ARES001](https://oshwhub.com/ARES001) |           |
 
 ## 📜 开源许可
 
