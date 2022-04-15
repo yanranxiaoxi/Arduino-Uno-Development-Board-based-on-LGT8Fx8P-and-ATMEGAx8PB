@@ -5,7 +5,7 @@
 [![pipeline status](https://gitlab.soraharu.com/XiaoXi/Arduino-Uno-Development-Board-based-on-LGT8Fx8P-and-ATMEGAx8PB/badges/master/pipeline.svg)](https://gitlab.soraharu.com/XiaoXi/Arduino-Uno-Development-Board-based-on-LGT8Fx8P-and-ATMEGAx8PB/-/commits/master)
 [![Latest Release](https://gitlab.soraharu.com/XiaoXi/Arduino-Uno-Development-Board-based-on-LGT8Fx8P-and-ATMEGAx8PB/-/badges/release.svg)](https://gitlab.soraharu.com/XiaoXi/Arduino-Uno-Development-Board-based-on-LGT8Fx8P-and-ATMEGAx8PB/-/releases)
 
-🔗 [GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/Arduino-Uno-Development-Board-based-on-LGT8Fx8P-and-ATMEGAx8PB) | 🔗 [OSHWHub](https://oshwhub.com/yanranxiaoxi/Arduino-Uno-Development-Board-based-on-LGT8Fx8P-and-ATMEGAx8PB)
+🔗 [GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/Arduino-Uno-Development-Board-based-on-LGT8Fx8P-and-ATMEGAx8PB) | 🔗 [OSHWHub](https://oshwhub.com/yanranxiaoxi/Arduino-Uno-Development-Board-based-on-LGT8Fx8P-and-ATMEGAx8PB) | 🔗 [GitHub](https://github.com/yanranxiaoxi/Arduino-Uno-Development-Board-based-on-LGT8Fx8P-and-ATMEGAx8PB)
 
 ![实拍图](https://downloadserver.soraharu.com:7000/Arduino%20Uno%20Development%20Board%20based%20on%20LGT8Fx8P%20and%20ATMEGAx8PB/Image/Product_quality_5.jpg)
 
